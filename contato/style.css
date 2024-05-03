@@ -1,0 +1,19 @@
+*{
+    padding: 10px;
+}
+h1{
+    text-align: center;  
+}
+
+ul{
+    background-image: url(.//contatos.jpg) ;
+    height: 250px;
+    width: 450px;
+} 
+
+
+
+a{
+    color: rgb(0, 123, 172);
+    
+}

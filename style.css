@@ -1,0 +1,21 @@
+
+h1{
+    text-align: center;
+    font-size: 35px;
+    
+}
+footer{
+    padding: 50px;
+    grid-column-end: auto;
+    text-align: center;
+}
+
+a{
+    color: blue;
+}
+.msg{
+    text-align: center;
+}
+.msg-1{
+    text-align: center
+}
